@@ -18,7 +18,7 @@
   
   <h2>Authors</h2>
   <ul>
-    <li>Your name</li>
+    <li>TheStevenDev</li>
   </ul>
   
   <h2>License</h2>
