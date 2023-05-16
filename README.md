@@ -6,7 +6,7 @@
   <p>To use the social network buttons menu in your project, follow these steps:</p>
   <ol>
     <li>Include Font Awesome in your HTML project:</li>
-    <pre>&lt;script src="https://kit.fontawesome.com/7d212ff4a3.js" crossorigin="anonymous"&gt;&lt;/script&gt;</pre>
+    <pre>&lt;script src="https://kit.fontawesome.com/yourid.js" crossorigin="anonymous"&gt;&lt;/script&gt;</pre>
     <li>Copy the provided HTML and CSS code from the repository.</li>
     <li>Include the CSS file (style.css) in your HTML file:</li>
     <pre>&lt;link rel="stylesheet" href="style.css"&gt;</pre>
